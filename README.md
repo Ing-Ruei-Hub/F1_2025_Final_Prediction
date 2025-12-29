@@ -3,9 +3,8 @@
 
 > Hierarchical Bayesian model for predicting Formula 1 race outcomes using PyMC
 
-[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://your-username.github.io/f1-bayesian-analysis/)
 
-[📊 View Live Dashboard](https://your-username.github.io/f1-bayesian-analysis/)
+[📊 View Live Dashboard](https://ing-ruei-hub.github.io/F1_2025_Final_Prediction/)
 
 ---
 
